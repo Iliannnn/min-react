@@ -1,2 +1,2 @@
-# documatic-hackathon
-My Documatic Hackathon submission
+# min-react
+Min components for React.
