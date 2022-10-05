@@ -1,0 +1,22 @@
+:root {
+    --md-accent-fg-color: #91D564;
+    --md-primary-fg-color: #91D564;
+    --md-primary-fg-color--dark: #16171d;
+}
+
+:root>* {
+    --md-footer-bg-color: #91D564;
+    --md-footer-bg-color--dark: #16171d;
+}    
+
+@media screen and (max-width: 76.1875em) {
+    .md-nav--primary .md-nav__title {
+        background-color: #91D564 !important;
+        border-bottom: 1px solid #91D564 !important;
+        color: rgb(255, 255, 255) !important;
+    }
+
+    .md-nav--primary .md-nav__title a:hover {
+        color: #91D564;
+    }
+}
