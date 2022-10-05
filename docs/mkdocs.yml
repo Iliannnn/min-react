@@ -16,6 +16,7 @@ nav:
       - "Grids": components/grids.md
       - "Messages": components/messages.md
   - "Practical Information":
+      - "Customizing Components": practical/customizing.md
       - "Contributing": practical/contributing.md
 
 theme:
