@@ -1,6 +1,7 @@
-:root {
-    --md-accent-fg-color: #91D564;
+:root, [data-md-color-scheme=default] {
     --md-primary-fg-color: #91D564;
+    --md-primary-fg-color: #91D564;
+    --md-accent-fg-color: #91D564;
     --md-primary-fg-color--dark: #16171d;
 }
 
