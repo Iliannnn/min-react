@@ -1,47 +1,52 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-         <loc>https://min-react.github.io/</loc>
+         <loc>https://iliannnn.github.io/min-react/</loc>
          <lastmod>2022-10-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://min-react.github.io/components/buttons/</loc>
+         <loc>https://iliannnn.github.io/min-react/components/buttons/</loc>
          <lastmod>2022-10-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://min-react.github.io/components/forms/</loc>
+         <loc>https://iliannnn.github.io/min-react/components/forms/</loc>
          <lastmod>2022-10-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://min-react.github.io/components/grids/</loc>
+         <loc>https://iliannnn.github.io/min-react/components/grids/</loc>
          <lastmod>2022-10-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://min-react.github.io/components/icons/</loc>
+         <loc>https://iliannnn.github.io/min-react/components/icons/</loc>
          <lastmod>2022-10-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://min-react.github.io/components/messages/</loc>
+         <loc>https://iliannnn.github.io/min-react/components/messages/</loc>
          <lastmod>2022-10-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://min-react.github.io/components/navbars/</loc>
+         <loc>https://iliannnn.github.io/min-react/components/navbars/</loc>
          <lastmod>2022-10-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://min-react.github.io/components/tables/</loc>
+         <loc>https://iliannnn.github.io/min-react/components/tables/</loc>
          <lastmod>2022-10-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://min-react.github.io/practical/contributing/</loc>
+         <loc>https://iliannnn.github.io/min-react/practical/contributing/</loc>
+         <lastmod>2022-10-05</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://iliannnn.github.io/min-react/practical/customizing/</loc>
          <lastmod>2022-10-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
