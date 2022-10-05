@@ -10,9 +10,6 @@
   <a href="https://www.npmjs.com/package/min-react">
     <img src="https://img.shields.io/npm/v/min-react.svg" alt="version" />
   </a>
-  <a href="https://www.npmjs.com/package/ultrax">
-    <img src="https://img.shields.io/github/workflow/status/KarimX32/UltraX-Package/npm-publish/main.svg" alt="build" />
-  </a>
   <a href="https://npmjs.org/package/min-react">
     <img src="https://img.shields.io/npm/dm/min-react.svg" alt="downloads" />
   </a>
@@ -53,3 +50,7 @@ These dependencies don't come with this package, so you need to install them sep
 ### Contributing
 
 Contributing is possible, but you need to follow the [contributing guidelines](https://github.com/Iliannnn/min-react/blob/main/CONTRIBUTING.md).
+
+### Documentation
+
+The official documentation with more information about the components can be found [here](https://iliannnn.github.io/min-react/).
