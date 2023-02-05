@@ -53,7 +53,7 @@ Contributing is possible, but you need to follow the [contributing guidelines](h
 
 ### Documentation
 
-The official documentation with more information about the components can be found [here](https://iliannnn.github.io/min-react/).
+The official documentation with more information about the components can be found [here](https://min-react.iliannnn.xyz/).
 
 ### Documatic
 
@@ -66,6 +66,4 @@ Documatic acts as a search engine for your codebase; once you describe what you'
 
 Not sitting next to each other? No problem. Ask Documatic questions of your codebase to learn and understand your code in seconds. Documatic is the team member you wish you had
 
-Our Visual studio Code extension: https://marketplace.visualstudio.com/items?itemName=Documatic.documatic
-
-![gif](https://cdn.discordapp.com/attachments/926110059782615071/1037404343470661713/Documatic_sh6hrz.gif)
+Our Visual Studio Code extension: https://marketplace.visualstudio.com/items?itemName=Documatic.documatic
