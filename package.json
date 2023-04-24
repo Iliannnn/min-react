@@ -30,7 +30,7 @@
   "bugs": {
     "url": "https://github.com/Iliannnn/min-react/issues"
   },
-  "homepage": "https://min-react.iliannnn.xyz/",
+  "homepage": "https://iliannnn.github.io/min-react/",
   "dependencies": {
     "classnames": "^2.3.2",
     "prop-types": "^15.8.1"
