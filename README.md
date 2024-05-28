@@ -53,17 +53,4 @@ Contributing is possible, but you need to follow the [contributing guidelines](h
 
 ### Documentation
 
-The official documentation with more information about the components can be found [here](https://min-react.iliannnn.xyz/).
-
-### Documatic
-
-This project was made for a Hackathon hosted by [Documatic](https://www.documatic.com/).
-
-Documatic is a search engine for your codebase; Ask documatic a question and find relevant code snippets and insights in seconds.
-
-https://www.documatic.com/
-Documatic acts as a search engine for your codebase; once you describe what you're looking for, Documatic pulls up related code or documentation making it easier to find what you're looking for in seconds!
-
-Not sitting next to each other? No problem. Ask Documatic questions of your codebase to learn and understand your code in seconds. Documatic is the team member you wish you had
-
-Our Visual Studio Code extension: https://marketplace.visualstudio.com/items?itemName=Documatic.documatic
+The official documentation with more information about the components can be found [here](https://iliannnn.github.io/min-react/).
